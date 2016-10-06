@@ -44,7 +44,8 @@ test('should matcher return `true` if match string glob pattern', function (done
 })
 
 test('should matcher return `false` if NOT match string glob pattern', function (done) {
-  var actual = ipMatch('123.??.34.8*')('123.222.34.88')
+  var isMatch = ipMatch('123.??.34.8*')
+  var actual = isMatch('123.222.34.88')
   test.strictEqual(actual, false)
   done()
 })
