@@ -51,15 +51,23 @@
     "tasks": [
       "readme"
     ],
-    "lint": {
-      "reflinks": true
-    },
     "related": {
-      "list": []
+      "list": [
+        "is-match",
+        "ip-filter",
+        "koa-ip-filter",
+        "koa-better-body",
+        "micromatch"
+      ]
     },
     "reflinks": [
       "ip-filter",
-      "micromatch"
-    ]
+      "micromatch",
+      "is-match",
+      "koa"
+    ],
+    "lint": {
+      "reflinks": true
+    }
   }
 }
