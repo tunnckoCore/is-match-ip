@@ -1,6 +1,6 @@
 {
   "name": "is-match-ip",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Matching IPs using [micromatch][] and [ip-filter][] - glob patterns, RegExp, string or array of globs. Returns matcher function.",
   "repository": "tunnckoCore/is-match-ip",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
