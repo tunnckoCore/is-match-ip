@@ -37,7 +37,24 @@
     "index.js"
   ],
   "keywords": [
-    "is-match-ip"
+    "array",
+    "check",
+    "filter",
+    "glob",
+    "globbing",
+    "ip",
+    "ip-match",
+    "is",
+    "is-ip",
+    "is-match",
+    "is-match-ip",
+    "match",
+    "matcher",
+    "matching",
+    "micro",
+    "micromatch",
+    "string",
+    "validate"
   ],
   "config": {
     "commitizen": {
